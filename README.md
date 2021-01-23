@@ -6,6 +6,10 @@
 
 * 运行情况：暂未配置GUI，AX200可驱动，所有后面板USB可使用, 启动自动向BIOS添加opencore，防止windows篡改。
 
+* This efi do not have a series number / ROM and ralated info, please DIY !!!
+
+* 此efi文件不包含序列号/网卡等相关信息，请自行补足！！！
+
 ## 硬件
 
 * 机箱: ZS-A4S V3
