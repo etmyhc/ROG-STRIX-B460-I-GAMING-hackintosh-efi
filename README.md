@@ -1,4 +1,4 @@
-# ROG STRIX B460-I GAMING-hackintosh 黑苹果 efi
+# ROG STRIX B460-I GAMING-hackintosh efi
 
 * 此efi基于ROG STRIX B460-I GAMING制作，使用OpenCore (0.6.5)，已安装macOS Catalina 10.15.7。 制作流程参考 [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) 中 [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point) 部分。
 
