@@ -12,8 +12,7 @@
 
 ## 硬件
 
-* 机箱: ZS-A4S V3
-* Motherboard: ROG STRIX B460-I GAMING (BIOS 1003)
+* 主板: ROG STRIX B460-I GAMING (BIOS 1003)
 * WiFi 模组: 板载AX200 (可驱动)
 * CPU: Intel Core i5-10900 es (QTB1)
 * 散热: 利民axp-90i-纯铜版
@@ -21,6 +20,7 @@
 * 显卡2: Radeon™ Pro WX 8200 (由Radeon RX Vega⁵⁶修改BIOS)
 * 内存: 科赋 Bolt X DDR4 3600MHz 16G*2
 * 存储: 三星 SM961 512G
+* 机箱: ZS-A4S V3
 
 ## 安装
 
