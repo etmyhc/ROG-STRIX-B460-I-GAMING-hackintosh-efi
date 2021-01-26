@@ -1,10 +1,10 @@
 # ROG STRIX B460-I GAMING-hackintosh efi
 
-* 此efi基于ROG STRIX B460-I GAMING制作，使用OpenCore (0.6.5)，已安装macOS Catalina 10.15.7。 制作流程参考 [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) 中 [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point) 部分。
+* 此efi基于ROG STRIX B460-I GAMING制作，使用OpenCore (0.6.5 release)，已安装macOS Catalina 10.15.7。 制作流程参考 [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) 中 [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point) 部分。
 
 * 此efi为仅可启动版本，请勿作为正式用途，使用此efi发生的损失及后果自行承担。
 
-* 运行情况：暂未配置GUI，AX200可驱动，所有后面板USB可使用, 启动自动向BIOS添加opencore，防止windows篡改。
+* 运行情况：暂未配置GUI，AX200可驱动，所有后面板USB可使用, 启动后自动向BIOS添加opencore启动项，防止windows篡改。
 
 * This efi do not have a series number / ROM and ralated info, please DIY !!!
 
