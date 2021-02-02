@@ -4,7 +4,7 @@
 
 * 此efi为仅可启动版本，请勿作为正式用途，使用此efi发生的损失及后果自行承担。
 
-* 运行情况：暂未配置GUI，AX200可驱动，所有后面板USB可使用, 启动后自动向BIOS添加opencore启动项，防止windows篡改。
+* 运行情况：暂未配置GUI，AX200基本可用（有概率断连或重启后不可用），所有后面板USB可使用, 启动后自动向BIOS添加opencore启动项，防止windows篡改。
 
 * This efi do not have a series number / ROM and ralated info, please DIY !!!
 
